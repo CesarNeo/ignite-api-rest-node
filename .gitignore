@@ -1,4 +1,4 @@
 node_modules
-db
-db/app.db
+db/*.db
 .env
+dist
